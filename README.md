@@ -1,4 +1,7 @@
 SnowBBS
 =======
-SnowBBS is an open-source bulletin board system based on web.
-SnowBBS is written in PHP and JavaScript.
+SnowBBS is a web bulletin board system with full keyboard control like a telnet bbs.
+SnowBBS supports ANSI-Art, SVG, Audio, Video... and will support more features in future.
+SnowBBS is designed responsively.
+SnowBBS is friendly to touch devices.
+SnowBBS is open-source.
