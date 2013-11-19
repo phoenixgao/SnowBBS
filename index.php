@@ -2,7 +2,9 @@
 require 'vendor/autoload.php';
 require 'app/config.php';
 
-$app = new \Slim\Slim();
+$app = new \Slim\Slim(array(
+    'view' => new \Slim\Views\Twig(),
+));
 
 require 'app/routes/login.php';
 require 'app/routes/homepage.php';
