@@ -1,6 +1,10 @@
 {
     "require": {
         "slim/slim": "2.*",
-        "slim/views": "0.1.*"
+        "slim/views": "0.1.*",
+        "monolog/monolog": "1.*",
+        "edlcdmc/lib-phpthumb": "dev-master",
+        "illuminate/database": "*",
+        "twig/twig": "1.*"
     }
 }
