@@ -5,6 +5,8 @@
         "monolog/monolog": "1.*",
         "edlcdmc/lib-phpthumb": "dev-master",
         "illuminate/database": "*",
-        "twig/twig": "1.*"
+        "twig/twig": "1.*",
+        "components/jquery": "1.10.*",
+        "gumbyframework/gumby": "2.*"
     }
 }
